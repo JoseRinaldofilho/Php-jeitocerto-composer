@@ -1,0 +1,17 @@
+{
+  "name": "vendor_name/psr-jeito-certo",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Basis Tecnologia",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {"classes\\": "classes"}
+  }
+}
